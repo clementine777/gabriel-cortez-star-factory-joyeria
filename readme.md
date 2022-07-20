@@ -36,4 +36,10 @@ al publico que van dirigidos nuestros productos exclusivos es a toda persona que
 
 #### **_Logo de la Marca:_**
 
-(en proceso)
+![logo](https://github.com/clementine777/gabriel-cortez-star-factory-joyeria/blob/master/img/cooltext415529546518944.png)
+
+![logo_2](https://github.com/clementine777/gabriel-cortez-star-factory-joyeria/blob/master/img/cooltext415529627293908.png)
+
+### **_Link de figma_**
+
+https://www.figma.com/file/D6ErvzVY3bvZTcTgNoFnux/Star-Jewerly-factory
